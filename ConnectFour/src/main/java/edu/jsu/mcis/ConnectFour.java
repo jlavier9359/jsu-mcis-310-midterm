@@ -1,5 +1,7 @@
 package edu.jsu.mcis;
 
+// This is a commit test  
+
 public class ConnectFour {
     public enum Token { RED, BLACK, EMPTY }
     public enum Result { NONE, RED_WIN, BLACK_WIN, TIE }
